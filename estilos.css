@@ -3,20 +3,23 @@ body{
 }
 div.referencias{
     width: 600px;
-    height: 300px;
+    height:250px;
+    padding-left:15%;
+    
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #EBEBEB;
+    display:inline-block;
+   /* background-color: #EBEBEB;*/
 }
 div.estructura{
     padding-left:15%;
     padding-right:15%;
     padding-top: 3%;
    /*background-color:#154360;*/
-   border-bottom-left-radius: 15px;
+    border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #EBEBEB;
-    box-shadow: 0 4px 8px 0 rgba(0, 0,0, 0.2), 0 6px 20px 0 rgba(0, 0,0, 0.19);
+    height: 400px;
+   /* box-shadow: 0 4px 8px 0 rgba(0, 0,0, 0.2), 0 6px 20px 0 rgba(0, 0,0, 0.19);*/
 }
 
 h2{
@@ -60,3 +63,44 @@ hr.separador{
     
 }
 
+div.idiomas{
+    width: 300px;
+    height:400px;
+    padding-right:15%;
+    
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+   /* background-color: #EBEBEB;*/
+    box-shadow: 0 4px 8px 0 rgba(0, 0,0, 0.2), 0 6px 20px 0 rgba(0, 0,0, 0.19);
+   
+    
+}
+div.icono{
+    width: 5px;
+    height:20px;
+    
+}
+div.barra{
+    width: 570px;
+    height:25px;
+    background:rgb(133, 36, 12);
+ 
+   
+    
+}
+td.img{
+    width: 5%;
+}
+td.c1{
+    width: 70%;
+    text-align: center;
+}
+div.barra2{
+    width: 570px;
+    height:25px;
+    background:rgb(133, 36, 12);
+ 
+   
+    
+}
