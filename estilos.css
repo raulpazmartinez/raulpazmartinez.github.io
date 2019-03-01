@@ -1,24 +1,18 @@
-body{
-   /* background-color:#3498DB;*/
-}
+
 div.referencias{
     width: 600px;
     height:250px;
     padding-left:15%;
-    
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
     display:inline-block;
-   /* background-color: #EBEBEB;*/
+    
 }
 div.estructura{
     padding-left:15%;
     padding-right:15%;
     padding-top: 3%;
-   /*background-color:#154360;*/
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
+
     height: 400px;
+
    /* box-shadow: 0 4px 8px 0 rgba(0, 0,0, 0.2), 0 6px 20px 0 rgba(0, 0,0, 0.19);*/
 }
 
@@ -65,26 +59,15 @@ hr.separador{
 
 div.idiomas{
     width: 300px;
-    height:200px;
-    padding-right:15%;
+    height:750px;
+    padding-right:10%;
     padding-top: 0%;
-    
-   
-   
-    
 }
 div.idiomas2{
     width: 300px;
     height:400px;
     padding-right:15%;
-    
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    
-   /* background-color: #EBEBEB;*/
-    box-shadow: 0 4px 8px 0 rgba(0, 0,0, 0.2), 0 6px 20px 0 rgba(0, 0,0, 0.19);
    
-    
 }
 div.icono{
     width: 5px;
@@ -95,9 +78,7 @@ div.barra{
     width: 570px;
     height:25px;
     background:rgb(133, 36, 12);
- 
    
-    
 }
 td.img{
     width: 5%;
@@ -109,31 +90,16 @@ td.c1{
 div.barra2{
     width: 570px;
     height:25px;
-    background:rgb(133, 36, 12);
- 
-   
-    
+    background:rgb(133, 36, 12);   
 }
 div.barra3{
     width: 570px;
     height:25px;
-    background:rgb(133, 36, 12);
- 
-   
+    background:rgb(133, 36, 12);  
+    
     
 }
-div.wordpress{
-    align-items: center;
-    text-align: center;
-    width: 150px;
-    height:25px;
-}
-div.mysql{
-    align-items: center;
-    text-align: center;
-    width: 150px;
-    height:25px;
-}
+
 td.wpress{
     width: 70%;
     text-align: right;
@@ -211,14 +177,10 @@ div.idioma{
     background: #FFFFFF;
     border-radius:100%;
     border: solid 1px black;
-    overflow:hidden;
-    
+    overflow:hidden;   
 }
-
 div.esp{
     margin-left:-5% 
-    
-    
 }
 div.ing{
     
@@ -235,10 +197,15 @@ div.idioma2{
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background:darkorange;
-    
-
 }
 div.circ1{
    
     height: 25px;
+}
+div.principal{
+    border-left:solid 15px #ccc;
+    border-right:solid 15px #ccc;
+    border-top: solid 15px #ccc;
+    border-bottom: solid 15px #ccc;
+    height:1200px;
 }
