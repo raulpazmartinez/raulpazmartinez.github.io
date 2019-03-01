@@ -152,3 +152,33 @@ td.html{
 td.titulo{
     text-align: center;
 }
+
+.cuadrado {
+    margin-top: 5%;
+    width: 10px; 
+    height: 10px; 
+    background: #428bca;
+    margin-left:26%; 
+    
+}
+.cuadrado2 {
+    margin-top: 7%;
+    width: 10px; 
+    height: 10px; 
+    background: chartreuse;
+    margin-left:26%; 
+    
+}
+.cuadrado3 {
+    margin-top: 9%;
+    width: 10px; 
+    height: 10px; 
+    background:darkred;
+    margin-left:26%; 
+    
+}
+div.txt{
+    margin-top: 3%;
+    width: 180px;
+    height:25px;
+}
