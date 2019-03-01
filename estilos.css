@@ -10,10 +10,8 @@ div.estructura{
     padding-left:15%;
     padding-right:15%;
     padding-top: 3%;
-
     height: 400px;
-
-   /* box-shadow: 0 4px 8px 0 rgba(0, 0,0, 0.2), 0 6px 20px 0 rgba(0, 0,0, 0.19);*/
+    width: 980px;
 }
 
 h2{
@@ -86,18 +84,6 @@ td.img{
 td.c1{
     width: 70%;
     text-align: center;
-}
-div.barra2{
-    width: 570px;
-    height:25px;
-    background:rgb(133, 36, 12);   
-}
-div.barra3{
-    width: 570px;
-    height:25px;
-    background:rgb(133, 36, 12);  
-    
-    
 }
 
 td.wpress{
@@ -175,7 +161,7 @@ div.idioma{
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background: #FFFFFF;
-    border-radius:100%;
+   
     border: solid 1px black;
     overflow:hidden;   
 }
