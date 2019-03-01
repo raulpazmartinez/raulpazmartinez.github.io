@@ -67,7 +67,7 @@ div.idiomas{
     width: 300px;
     height:200px;
     padding-right:15%;
-
+    padding-top: 0%;
     
    
    
@@ -125,4 +125,12 @@ div.mysql{
     text-align: center;
     width: 150px;
     height:25px;
+}
+td.wpress{
+    width: 70%;
+    text-align: right;
+    padding-top: 0%;
+}
+td.titulo{
+    text-align: center;
 }
