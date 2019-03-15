@@ -1,0 +1,25 @@
+div.izquierda{
+   
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+    background-color:#058085;
+}
+div.derecha{
+    width: 400px;
+    display: inline-block;
+    background-color:#d31d63;
+    padding: 2em;
+}
+button.celda{
+    height: 35px;
+    width: 100px;
+    text-align: center;
+    margin-bottom: 0.3em;
+    margin-right: 0.3em;
+    margin-left: 1.8em;
+}
+h3{
+ color: aliceblue;
+ text-align: center;  
+}

@@ -13,19 +13,16 @@ div.estructura{
     height: 400px;
     width: 980px;
 }
-
 h2{
     font-family:calibri, Arial, Helvetica, sans-serif;
     color:#154360;
     text-align: center;
 }
-
 h3{
     font-family:calibri, Arial, Helvetica, sans-serif;
     color:#154360;
     text-align: center;
 }
-
 table {
     width: 100%;
     
@@ -161,7 +158,6 @@ div.idioma{
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background: #FFFFFF;
-   
     border: solid 1px black;
     overflow:hidden;   
 }
