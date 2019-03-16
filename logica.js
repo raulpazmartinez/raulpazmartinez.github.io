@@ -20,7 +20,7 @@ function crearBtn() {
         document.getElementById("btn_" + i).style.height = "35px";
         document.getElementById("btn_" + i).style.width = "35px";
         document.getElementById("btn_" + i).style.backgroundColor = "#dda0dd";
-        document.getElementById("btn_" + i).style.border = "0px";
+        document.getElementById("btn_" + i).style.border = "2px";
         document.getElementById("btn_" + i).style.marginLeft = "2px";
         document.getElementById("btn_" + i).style.marginBottom = "2px";
     }
