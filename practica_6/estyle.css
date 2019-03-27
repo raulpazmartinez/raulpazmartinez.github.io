@@ -17,7 +17,8 @@ div.trans{
     text-align:center;
     margin:auto;
 }
-div.col-md-3{
+/*div.col-md-7{
+    
     border-left:solid 4px #ccc;
     border-right:solid 4px #ccc;
     border-top: solid 4px #ccc;
@@ -25,4 +26,4 @@ div.col-md-3{
     display: flex;
     justify-content: center;
     align-items: center;
-}
+}*/
